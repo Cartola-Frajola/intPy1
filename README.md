@@ -1,3 +1,3 @@
 # intPy1
-Altos repositorio\n
+Altos repositorio
 Muito legal mesmo
